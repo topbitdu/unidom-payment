@@ -18,6 +18,7 @@ gem 'unidom-payment'
 ```shell
 rake db:migrate
 ```
+The migration versions start with 200208.
 
 ## Call the Model
 ```ruby

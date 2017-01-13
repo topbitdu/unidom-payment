@@ -1,6 +1,7 @@
 # Unidom Payment 支付领域模型引擎
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](http://opensource.org/licenses/MIT)
+[![Gem Version](https://badge.fury.io/rb/unidom-payment.svg)](https://badge.fury.io/rb/unidom-payment)
 [![Dependency Status](https://gemnasium.com/badges/github.com/topbitdu/unidom-payment.svg)](https://gemnasium.com/github.com/topbitdu/unidom-payment)
 
 Unidom (UNIfied Domain Object Model) is a series of domain model engines. The Payment domain model engine includes Payment and its relative models.
